@@ -76,4 +76,4 @@
 
 1. Клонировать репозиторий:
    ```bash
-   git clone https://github.com/ваш-аккаунт/название-репозитория.git
+   git clone https://github.com/dimaget26/conversion-cinema.git
